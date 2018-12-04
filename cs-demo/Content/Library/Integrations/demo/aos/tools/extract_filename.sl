@@ -3,7 +3,6 @@
  #! @description: Generated Python operation description.
  #!
  #! @input input_1: Generated description
- #! @input input_2: Generated description
  #!
  #! @output output_1: Generated description
  #!
